@@ -1,6 +1,6 @@
 Name:		texlive-continue
 Version:	49449
-Release:	1
+Release:	2
 Summary:	Prints 'continuation' marks on pages of multipage documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/continue
