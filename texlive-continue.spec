@@ -3,7 +3,7 @@ Version:	49449
 Release:	2
 Summary:	Prints 'continuation' marks on pages of multipage documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/continue
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/continue
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/continue.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/continue.doc.r%{version}.tar.xz
